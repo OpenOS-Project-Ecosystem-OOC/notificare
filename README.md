@@ -12,6 +12,7 @@
 
 
 
+
 [![Gem Version](https://img.shields.io/gem/v/notificare)](https://rubygems.org/gems/notificare)
 [![Ruby](https://img.shields.io/badge/ruby-%3E%3D%203.3-red)](https://www.ruby-lang.org/)
 [![Rails](https://img.shields.io/badge/rails-%3E%3D%208.1-CC0000)](https://rubyonrails.org/)
